@@ -26,8 +26,8 @@ public class Inventory {
         return 0;
     }
 
-    public void executeOperation(float quantity) {
-        this.stock += quantity;
+    public void executeOperation(InventoryOperationType operationType, float quantity) {
+        this.stock = operationType.equals(InventoryOperationType.INPUT) ? stock + quantity : stock - quantity;
     }
 
     public boolean isAvailable() {
