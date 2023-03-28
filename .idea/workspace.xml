@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc4f3ef-3640-4bd9-b837-f57e74e31653" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/acme/scm/domain/model/Warehouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/acme/shared/domain/model/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0bc4f3ef-3640-4bd9-b837-f57e74e31653" name="Changes" comment="feat: Added Warehouse entity with Address support.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acme/scm/domain/model/Inventory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/acme/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/acme/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/acme/crm/domain/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/acme/crm/domain/model/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/acme/crm/domain/model/SalesOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/acme/crm/domain/model/SalesOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/acme/crm/domain/model/SalesOrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/acme/crm/domain/model/SalesOrderItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/acme/scm/domain/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/acme/scm/domain/model/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/acme/scm/domain/model/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/acme/scm/domain/model/Supplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/acme/shared/domain/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/acme/shared/domain/model/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -76,11 +67,23 @@
       <option name="presentableId" value="Default" />
       <updated>1679578092419</updated>
       <workItem from="1679578093265" duration="1718000" />
-      <workItem from="1680008866735" duration="2840000" />
+      <workItem from="1680008866735" duration="3431000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: Added Warehouse entity with Address support.">
+      <created>1680011794099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680011794099</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: Added Warehouse entity with Address support." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Added Warehouse entity with Address support." />
   </component>
 </project>
