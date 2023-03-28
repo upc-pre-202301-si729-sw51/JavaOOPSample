@@ -1,4 +1,4 @@
-package com.acme.purchasing.domain.model;
+package com.acme.scm.domain.model;
 
 import com.acme.shared.domain.model.Person;
 
